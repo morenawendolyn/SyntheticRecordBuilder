@@ -1,0 +1,23 @@
+
+---
+
+### **4. 32_RealtimeChartPanel**  
+**Description:**  
+Visualizes real-time data as a smooth, live-updating chart using Matplotlib.
+
+#### **README.md**
+```markdown
+# RealtimeChartPanel - Live Data Visualization Tool
+
+RealtimeChartPanel streams incoming values and displays them as a scrolling line chart.
+
+## Features
+- Clean animated charts  
+- Adjustable update speed  
+- Easy to adapt for sensors or simulations  
+
+## Usage
+```bash
+git clone https://github.com/your-username/32_RealtimeChartPanel.git
+cd 32_RealtimeChartPanel
+python visualize.py
