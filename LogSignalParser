@@ -1,0 +1,23 @@
+
+---
+
+### **3. 32_LogSignalParser**  
+**Description:**  
+Parses system/app logs and identifies high-frequency warnings, errors, and repeating lines.
+
+#### **README.md**
+```markdown
+# LogSignalParser - Log Event Frequency Scanner
+
+LogSignalParser helps quickly locate common or suspicious log patterns and summarize noisy files.
+
+## Features
+- Keyword-based filtering  
+- Frequency analysis  
+- Easy CLI integration  
+
+## Usage
+```bash
+git clone https://github.com/your-username/32_LogSignalParser.git
+cd 32_LogSignalParser
+python analyze.py /var/log/app.log
